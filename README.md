@@ -8,3 +8,5 @@ https://github.com/elisabeth-gallant/USF_thesis/blob/master/Gallant_MS_Thesis.pd
 
 To download the MOLASSES code, written by Jacob Richardson (NASA/Goddard), use the link here
 https://github.com/USFvolcanology/molasses
+
+Copyright 2016, Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0). http://creativecommons.org/licenses/by-nc/3.0/
