@@ -1,4 +1,4 @@
-%This code was written by Elisabeth Gallant for use in my MS thesis
+%This Matlab code was written by Elisabeth Gallant for use in my MS thesis
 %please cite: 
 %
 %Gallant, E. (2016) MS Thesis, Advisor Charles Connor: Lava Flow Hazard Assessment for the Idaho National Laboratory, Idaho Falls, and Pocatello, Idaho, USA. University of South Florida Scholar Commons.
